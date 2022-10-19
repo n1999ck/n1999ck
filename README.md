@@ -2,7 +2,7 @@
 I'm Nick, a student at Columbus State University working on a dual degree in web development and art history.
 My priority in life is to learn as much as I can. I'm looking for a way to combine my fields.
 
-Some of my code is hosted here; eventually I'll be making a site where my art history stuff can live. Some topics I've covered recently include Alma Thomas
+Some of my code is hosted here; eventually I'll be making a site where my art history stuff can live. Some artists I've covered recently include Alma Thomas and Anne-Louis Girodet.
 
 Current courses: Data Structures, Internet Programming, Computer Organization, Discrete Mathematics, American Art
 
