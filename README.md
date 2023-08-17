@@ -1,10 +1,10 @@
 ### Hi there 👋
 I'm Nick, a student at Columbus State University working on a dual degree in web development and art history.
-My priority in life is to learn as much as I can. I'm looking for a way to combine my fields.
+My priority in life is to learn as much as I can. I'm hoping to work in the museum field, using both of my fields together. 
 
-Some of my code is hosted here; eventually I'll be making a site where my art history stuff can live. Some artists I've covered recently include Alma Thomas and Anne-Louis Girodet.
+Some of my code is hosted here; eventually I'll be making a site where my art history stuff can live.
 
-Current courses: Data Structures, Internet Programming, Computer Organization, Discrete Mathematics, American Art
+Current courses: Server-Side Web Development, Object-Oriented Programming, Defensive Programming, Modern Sculpture
 
 Things I want to learn: C, server systems, general hardware stuff
 
