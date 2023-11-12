@@ -1,6 +1,7 @@
 ### Hi there 👋
 I'm Nick, a student at Columbus State University working on a dual degree in web development and art history.
-My priority in life is to learn as much as I can. I'm hoping to work in the museum field, using both of my fields together. 
+Learning is my priority in life.
+I'm hoping to work in the museum field, using both of my fields together.
 
 Some of my code is hosted here; eventually I'll be making a site where my art history stuff can live.
 
