@@ -5,11 +5,9 @@ I'm hoping to work in the museum field, using both of my fields together.
 
 Some of my code is hosted here; eventually I'll be making a site where my art history stuff can live.
 
-Current courses: Server-Side Web Development, Object-Oriented Programming, Defensive Programming, Modern Sculpture
+Current courses: Web Development Projects, Programming Languages
 
-Things I want to learn: C, server systems, general hardware stuff
-
-
+Things I want to learn: Cloud stuff, Docker, Graphic and UI/UX Design
 
 <!--
 **n1999ck/n1999ck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
